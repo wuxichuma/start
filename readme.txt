@@ -1,2 +1,2 @@
 I LOVE MY BB
-Git tracks changes.
+Git tracks changes of files.
