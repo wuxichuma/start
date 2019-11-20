@@ -9,6 +9,6 @@ func main() {
 		fmt.Print(index)
 	}
 	ch := make(chan int, 2)
-	ch <- 2
+	ch <- 3
 	fmt.Println(<-ch)
 }
